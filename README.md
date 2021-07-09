@@ -14,33 +14,31 @@ For reference, the following folder paths hold files with links to their corresp
 
 If you need to contact me for access or inquiries, please feel free to send me an email @ dakota.funke@yahoo.com
 
-
 ## Table of Contents
-```
+
 Top_Directory
-| -> Assembly
-    | -> ECE362 (Private Repository)
-| -> C
-    | -> Sorting_Algorithms
-    | -> Linked Lists
-    | -> Binary Trees
-| -> Discord
-    | -> Rogue_Bot
-| -> Java 
-    | -> ECE39595 
-        | -> Rogue_Game (Private Repository)
-    | -> Rogue
-| -> Python
-    | -> ECE20875 (Private Repository)
-    | -> ECE36400 (Private Repository)
-| -> MATLAB
-    | -> ENGR131 (Private Repository)
-    | -> ENGR132 (Private Repository)
-| -> MicroPython 
-    | -> ECE 40862 (Private Repository)
-| -> Verilog+System_Verilog
-    | -> Processor Project
-        | -> Singlecycle
-        | -> Pipelined
-    | -> Car_Lights
-```
+* -> Assembly
+	* -> ECE362 (Private Repository)
+* -> C
+	* -> [Sorting Algorithms](https://github.com/D-Funke/Sorting_Algorithms)
+ 	* -> Linked Lists
+ 	* -> Binary Trees 
+* -> Discord
+ 	* -> Rogue_Bot
+* -> Java 
+ 	* -> ECE39595 
+  		* -> Rogue_Game (Private Repository)
+ 	* -> Rogue
+* -> Python
+ 	* -> ECE20875 (Private Repository)
+ 	* -> ECE36400 (Private Repository)
+* -> MATLAB
+ 	* -> ENGR131 (Private Repository)
+ 	* -> ENGR132 (Private Repository)
+* -> MicroPython 
+ 	* -> ECE 40862 (Private Repository)
+* -> Verilog+System_Verilog
+ 	* -> Processor Project
+  		* -> Singlecycle
+  		* -> Pipelined
+ 	* -> Car_Lights
