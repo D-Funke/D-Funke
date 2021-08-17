@@ -23,8 +23,7 @@ Top_Directory
 	* -> [Sorting Algorithms](https://github.com/D-Funke/Sorting_Algorithms)
  	* -> Linked Lists
  	* -> Binary Trees 
-* -> Discord
- 	* -> Rogue_Bot
+ 
 * -> Java 
  	* -> ECE39595 
   		* -> Rogue_Game (Private Repository)
@@ -32,6 +31,7 @@ Top_Directory
 * -> Python
  	* -> ECE20875 (Private Repository)
  	* -> ECE36400 (Private Repository)
+ 	* -> Rogue_Bot
 * -> MATLAB
  	* -> ENGR131 (Private Repository)
  	* -> ENGR132 (Private Repository)
