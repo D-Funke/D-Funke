@@ -16,7 +16,7 @@ If you need to contact me for access or inquiries to the repositories that are p
 
 Top_Directory
 * -> Assembly
-	* -> ECE362 (Private Repository)
+	* -> ECE36200 (Private Repository)
 	
 * -> C
 	* -> CS15900 (Private Repository)
@@ -38,14 +38,14 @@ Top_Directory
  	* -> Rogue Game 
  
 * -> MATLAB
- 	* -> ENGR132 (Private Repository)
+ 	* -> ENGR13200 (Private Repository)
  	     -> First-Order System Algorithm Development
  	
 * -> MicroPython 
- 	* -> ECE 40862 (Private Repository)
+ 	* -> ECE40862 (Private Repository)
  	     -> Board Networking, Hover-Bike Simulation, HTTP Web Server and Client, Peripherals Interfacing
  	
-* -> Verilog+System_Verilog
+* -> Verilog/System_Verilog
  	* -> Processor Projects (Private Repository)
   		* -> Singlecycle
   		* -> Pipelined
