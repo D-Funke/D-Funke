@@ -46,6 +46,8 @@ Top_Directory
  	     -> Board Networking, Hover-Bike Simulation, HTTP Web Server and Client, Peripherals Interfacing
  	
 * -> Verilog/System_Verilog
+	* -> ECE27000 (Private Repository)
+    	* -> ECE33700 (Private Repository)
  	* -> Processor Projects (Private Repository)
   		* -> Singlecycle
   		* -> Pipelined
