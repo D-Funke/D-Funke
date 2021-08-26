@@ -47,7 +47,7 @@ Top_Directory
  	
 * -> Verilog/System_Verilog
 	* -> ECE27000 (Private Repository)
-    	* -> ECE33700 (Private Repository)
+	* -> ECE33700 (Private Repository)
  	* -> Processor Projects (Private Repository)
   		* -> Singlecycle
   		* -> Pipelined
