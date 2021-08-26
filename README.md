@@ -23,7 +23,7 @@ Top_Directory
 	* -> ECE36800 (Private Repository)
 	     -> Binary Trees, Linked Lists, Sorting Algorithms
 	* -> ECE46900 (Private Repository)
-	     -> Process Synchronization, Passing & Scheduling, Memory Management, Linux File System Syscalls
+	     -> File Checker, Memory Management, Passing & Scheduling, Process Synchronization
  
 * -> Java 
  	* -> ECE39595 (Private Repository)
@@ -32,9 +32,9 @@ Top_Directory
  	
 * -> Python
  	* -> ECE20875 (Private Repository)
- 	     -> Data Science, Linear Regression, New York Bicycle Counts & Analysis Report, Object Oriented Programming, Regex
+ 	     -> Data Science, Linear Regression, New York Bicycle Counts & Analysis Report, Regex
  	* -> ECE36400 (Private Repository)
- 	     -> Python Famliarization, Image Morpher
+ 	     -> Image Morpher, Object Oriented Programming, Python Familiarization
  	* -> Rogue Game 
  
 * -> MATLAB
@@ -43,7 +43,7 @@ Top_Directory
  	
 * -> MicroPython 
  	* -> ECE 40862 (Private Repository)
- 	     -> Interfacing Peripherals, Board Networking, HTTP Web Server and Client, Hover-Bike Simulation
+ 	     -> Board Networking, Hover-Bike Simulation, HTTP Web Server and Client, Peripherals Interfacing
  	
 * -> Verilog+System_Verilog
  	* -> Processor Projects (Private Repository)
