@@ -8,7 +8,7 @@
 ```
 
 ## Summary
-Hi! My name is Dakota Funke, a graduate of Purdue University! The following list is a general indication of past work and on-going projects. 
+Hi! My name is Dakota Funke, a graduate of Purdue University! The following list is a general indication of past work and projects from previous classes or any on-going projects. 
 
 If you need to contact me for access or inquiries to the repositories that are private, please feel free to send me an email @ dakota.funke@yahoo.com
 
