@@ -15,8 +15,6 @@
 * ⌨️ Currently working on a Discord Bot Game using JDA
 * 💬 Ask me anything
 
-## My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Funke&show_icons=true&theme=nord)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Funke&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repository Information:
