@@ -1,4 +1,7 @@
-# Top_Directory
+![](https://visitor-badge.laobi.icu/badge?page_id=D-Funke)
+[![Github](https://img.shields.io/github/followers/D-Funke?label=Follow&style=social)](https://github.com/D-Funke)
+
+## Hi there 👋 I'm Dakota!
 ```
  __      __        __                               
 /  \    /  \ ____ |  |   ____  ____   _____   ____  
@@ -6,15 +9,19 @@
  \        /\  ___/|  |_\  \__(  <_> )  Y Y  \  ___/ 
   \__/\__/  \_____>____/\_____>____/|__|_|__/\_____>
 ```
+## I'm a Computer Engineering Graduate of Purdue University!
+* 🗄️ Currently seeking a full-time position
+* 📫 Get in touch with me @ dakota.funke@yahoo.com
+* ⌨️ Currently working on a Discord Bot Game using JDA
+* 💬 Ask me anything
 
-## Summary
-Hi! My name is Dakota Funke, a graduate of Purdue University! The following list is a general indication of past work and projects from previous classes or any on-going projects. 
+## My GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Funke&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Funke&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-If you need to contact me for access or inquiries to the repositories that are private, please feel free to send me an email @ dakota.funke@yahoo.com
+## Repository Information:
+Listed below are some of the repositories containing my past work! If you'd like to get access, just send me a message!
 
-## Table of Contents
-
-Top_Directory
 * -> Assembly
 	* -> ECE36200 (Private Repository)
 	
