@@ -9,13 +9,12 @@
  \        /\  ___/|  |_\  \__(  <_> )  Y Y  \  ___/ 
   \__/\__/  \_____>____/\_____>____/|__|_|__/\_____>
 ```
-## I'm a Computer Engineering Graduate of Purdue University!
-* 🗄️ Currently seeking a full-time position
+## I'm a Computer Engineer, graduate of Purdue University!
+* 🚲 I love to bike, run and cook
+* 🗄️  Software Engineer @ John Deere
 * 📫 Get in touch with me @ dakota.funke@yahoo.com
 * ⌨️ Currently working on a Discord Bot Game using JDA
 * 💬 Ask me anything
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Funke&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repository Information:
 Listed below are some of the repositories containing my past work! If you'd like to get access, just send me a message!
