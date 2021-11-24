@@ -11,7 +11,8 @@
 ```
 ## I'm a Computer Engineer, graduate of Purdue University!
 * 🚲 I love to bike, run and cook
-* 🗄️  Software Engineer @ John Deere
+* 🗄️ Software Engineer @ John Deere during the day
+* 🎑 Personal Projects Developer at night
 * 📫 Get in touch with me @ dakota.funke@yahoo.com
 * ⌨️ Currently working on a Discord Bot Game using JDA
 * 💬 Ask me anything
