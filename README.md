@@ -15,5 +15,4 @@
 * 🗄️ Software Engineer @ John Deere
 * 🎑 Outside of work I do personal projects/learn more code
 * 📫 Get in touch with me @ dakota.funke@yahoo.com
-* ⌨️ Currently working on a Discord Bot Game using JDA
 * 💬 Ask me anything
